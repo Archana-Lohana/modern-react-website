@@ -1,5 +1,8 @@
 ## Prospective Customer Segmentation Dashboard
 
+**Live Demo:** [View the Dashboard](https://archana-lohana.github.io/modern-react-website/)
+
+
 A modern, interactive React application that visualizes and categorizes potential banking customers based on satisfaction and access to financial products. This dashboard is designed to help financial institutions understand customer segments and make data-driven decisions.
 
 ## Features
